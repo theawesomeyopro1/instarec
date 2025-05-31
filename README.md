@@ -17,7 +17,7 @@ No extensions, no logins, no third-party sites — just run the script and save 
 
 ## 🛠️ How to Use
 
-1. Open the Instagram story you want to save (desktop browser only).
+1. Open the Instagram profile you want to save the story of (desktop browser only).
 2. Right-click the page and choose **Inspect**, or press `F12`.
 3. Go to the **Console** tab.
 4. Paste the contents of `instarec.js` and hit **Enter**.
@@ -26,6 +26,7 @@ No extensions, no logins, no third-party sites — just run the script and save 
    - Auto-play the story
    - Start recording
    - Download it once it ends ✅
+6. Play the story and let it record. Once it is done, it will download a video file
 
 ---
 
